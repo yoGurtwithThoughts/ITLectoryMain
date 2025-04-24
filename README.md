@@ -1,16 +1,28 @@
-# itlectory4
+# itlectory
 
-A new Flutter project.
+Приложение для изучения фреймоврка WPF
+ITLectory — это мобильное приложение, предназначенное для студентов и преподавателей в сфере информационных технологий.
+Оно предоставляет удобный доступ к учебным материалам, заданиям и возможностям взаимодействия между участниками образовательного процесса.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Версия для студентов:
+- доступ к учебным материала;
+- задания и тесты;
+- общение с преподавателями;
+- отслеживание успеваемости;
+Версия для преподавателей
+- управление курсами;
+- контроль студентов;
+- коммуникация со студентами;
+Уствновка:
+1. Сканируйте QR код или перейдите по ссылке https://disk.yandex.ru/client/disk/ItLectory
+3. Перейдите на Яндекс Диск
+4. Загрузите apk-relese
+5. Перейдите в проводник телефона или планшета и найдите файл
+6. Нажите на него и разрешите установку
+Требования устройства:
+1. Android 5.0 и выше или iOS 12.0 и выше.
+2. Подключение к интернету для доступа к учебным материалам и взаимодействия с другими пользователями.
+Контакты:
+Если у вас есть вопросы или предложения, пожалуйста, свяжитесь с нами:
+1. Email: support@itlectory.com
+2. Телефон: +1 (953) 961-3915
