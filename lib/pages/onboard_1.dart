@@ -49,7 +49,6 @@ class _OnBoard1State extends State<OnBoard1> {
     _shakeDetector?.stopListening();
     super.dispose();
   }
-
   Widget build(BuildContext context) {
     return Scaffold(
       body: LayoutBuilder(
